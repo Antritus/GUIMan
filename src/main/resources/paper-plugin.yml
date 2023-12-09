@@ -1,0 +1,11 @@
+name: GUIMan
+version: '${version}'
+main: bet.astral.guiman.GUIMan
+api-version: '1.20'
+prefix: GUIMan
+dependencies:
+  - name: PlaceholderAPI
+    required: false
+authors: [Antritus]
+description: A gui builder for server managers and API to load GUIs for developers from configuration files
+website: astral.bet/guiman
